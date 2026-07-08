@@ -1,0 +1,14 @@
+:root {
+  --primary: #0f6fff;
+  --secondary: #1f2a37;
+  --accent: #2f80ed;
+  --white: #ffffff;
+  --black: #0b1320;
+  --gray-100: #f5f7fb;
+  --gray-200: #e9eef5;
+  --gray-300: #cbd5e1;
+  --gray-500: #64748b;
+  --shadow: 0 18px 40px rgba(11, 19, 32, 0.08);
+  --border-radius: 20px;
+  --transition: 0.25s ease;
+}
